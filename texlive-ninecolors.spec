@@ -1,6 +1,6 @@
 Name:		texlive-ninecolors
 Version:	62006
-Release:	1
+Release:	2
 Summary:	Select colors with proper WCAG color contrast
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ninecolors
