@@ -3,7 +3,7 @@ Version:	62006
 Release:	2
 Summary:	Select colors with proper WCAG color contrast
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ninecolors
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ninecolors
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ninecolors.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ninecolors.doc.r%{version}.tar.xz
